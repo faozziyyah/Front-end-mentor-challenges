@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](images/screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/faozziyyah/Front-end-mentor-challenges/tree/main/blogr%20landing%20page)
+- Live Site URL: (https://blogr-landing-page-ruby.vercel.app/)
 
 ## My process
 
@@ -44,7 +44,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@faozziyyah](https://www.frontendmentor.io/profile/faozziyyah)
+- Twitter - [@muslimahdev](https://www.twitter.com/muslimahdev)
 
