@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [view solution]()
-- Live Site URL: [live site]()
+- Solution URL: [view solution](https://github.com/faozziyyah/Front-end-mentor-challenges/tree/main/javascript%20calculator)
+- Live Site URL: [live site](https://js-calculator-drab.vercel.app/)
 
 ## My process
 
@@ -47,10 +47,6 @@ Users should be able to:
 - Vanilla Javascript
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
 
 ```html
 <h1>HTML layout of a calculator</h1>
